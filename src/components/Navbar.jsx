@@ -4,9 +4,9 @@ const links = [
   { href: "#project", label: "Project" },
   { href: "#contact", label: "Contact" },
   {
-    href: "/resume/Sumanta%20Chowdhury%20MIS.pdf",
+    href: "/cv.pdf",
     label: "Resume",
-    download: "Sumanta Chowdhury MIS.pdf",
+    download: "CV.pdf",
   },
 ];
 

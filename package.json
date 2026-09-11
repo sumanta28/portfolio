@@ -4,7 +4,10 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "prepare:resume": "node scripts/prepare-resume.mjs",
+    "predev": "npm run prepare:resume",
     "dev": "vite",
+    "prebuild": "npm run prepare:resume",
     "build": "vite build",
     "preview": "vite preview"
   },

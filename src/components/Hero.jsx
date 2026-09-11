@@ -35,8 +35,8 @@ export default function Hero() {
               Get in touch
             </a>
             <a
-              href="/resume/Sumanta%20Chowdhury%20MIS.pdf"
-              download="Sumanta Chowdhury MIS.pdf"
+              href="/cv.pdf"
+              download="CV.pdf"
               className="font-mono text-[12px] whitespace-nowrap text-center px-3 py-2.5 border border-line bg-paper-raised text-ink hover:border-forest hover:text-forest transition-colors"
             >
               Download resume
